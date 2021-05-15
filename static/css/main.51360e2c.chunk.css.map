@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss","User.scss"],"names":[],"mappings":"AAAA,KACE,iBAAkB,CCDpB,WACE,eAAiB","file":"main.51360e2c.chunk.css","sourcesContent":[".App {\n  text-align: center;\n}\n",".user-name {\n  font-weight: bold;\n}\n"]}
